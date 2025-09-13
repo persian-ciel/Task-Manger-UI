@@ -41,8 +41,8 @@ To run the app navigate to Task-Manger-UI and run this code:
 
 ## 🖼️ Demo Screenshot
 
-<img width="1366" height="768" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/193926fd-c03e-4bc0-94cb-5fcfee31f589" />
-<img width="1366" height="768" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/ae8e80d7-d758-4a42-bef2-8f3a1ce2c55d" />
+<img width="1366" height="588" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/da3c8bb4-0b88-4fc5-90e2-74b2df26356d" />
+<img width="1366" height="599" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/3f8b6904-e8b0-4ffa-bf29-886510d12229" />
 
 ---
 
